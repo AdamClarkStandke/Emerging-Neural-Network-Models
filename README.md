@@ -1,2 +1,2 @@
-# Emerging Neural Network Models
-Will be implementing and detailing emerging Neural network models such as graph based models, Meta-Learning and Memory Augmented models that are still being researched and developed to overcome traditional limitations of Deep learning modeling such as [sleeper agents](https://arxiv.org/pdf/2401.05566) and other security issues
+# Graph Neural Networks
+[Graph Neural Networks(GNNs)](https://en.wikipedia.org/wiki/Graph_neural_network#cite_note-:1-43) are a type of neural network architecture that are designed for tasks whose inputs are graphs. I will be implementing various chapters of the book [Hands-On Graph Neural Network Using Python](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python) written by Maxime Labonne. 
